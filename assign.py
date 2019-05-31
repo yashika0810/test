@@ -15,6 +15,6 @@ while (count < 4):
       break
     else:
       print("Error! Enter the OTP Again!")
-      count = count + 1
+      count = count + 2
   if(count == 4):
     print("SORRY PROGRAM CRASHED")
